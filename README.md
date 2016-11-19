@@ -22,6 +22,8 @@ Install the latest version of the [Eclipse Color Themes Plugin](https://marketpl
   3. Click on the *Import a theme* labeled button on the right bottom
   4. Import the downloaded `nord.xml` file
 
+You can also visit the plugin website for a [How To Use](http://www.eclipsecolorthemes.org/?view=how-to-use) description and video.
+
 #### Via Eclipse Preference Import
 [Download](https://github.com/arcticicestudio/nord-eclipse-syntax/releases/latest) the latest [`nord.epf`](https://github.com/arcticicestudio/nord-eclipse-syntax-syntax/blob/develop/src/epf/nord.epf) file and import it:
   1. Open *File* > *Import*

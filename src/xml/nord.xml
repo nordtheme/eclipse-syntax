@@ -3,7 +3,7 @@
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 title      Nord Eclipse Syntax                                    +
 project    nord-eclipse-syntax                                    +
-version                                                           +
+version    0.1.0                                                  +
 repository https://github.com/arcticicestudio/nord-eclipse-syntax +
 author     Arctic Ice Studio                                      +
 email      development@arcticicestudio.com                        +
