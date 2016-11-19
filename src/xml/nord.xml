@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+title      Nord Eclipse Syntax                                    +
+project    nord-eclipse-syntax                                    +
+version    0.1.0                                                  +
+repository https://github.com/arcticicestudio/nord-eclipse-syntax +
+author     Arctic Ice Studio                                      +
+email      development@arcticicestudio.com                        +
+copyright  Copyright (c) 2016                                     +
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+[References]
+Nord
+  (https:/github.com/arcticicestudio/nord)
+Eclipse Color Themes
+  (http://eclipsecolorthemes.org)
+-->
+<colorTheme id="45110" name="Nord" modified="2016-11-19 19:11:19" author="Arctic Ice Studio" website="http://arcticicestudio.com/nord">
+    <searchResultIndication color="#5E81AC" />
+    <filteredSearchResultIndication color="#5E81AC" />
+    <occurrenceIndication color="#5E81AC" />
+    <writeOccurrenceIndication color="#5E81AC" />
+    <findScope color="#5E81AC" />
+    <deletionIndication color="#BF616A" />
+    <sourceHoverBackground color="#2E3440" />
+    <singleLineComment color="#4C566A" italic="false" />
+    <multiLineComment color="#4C566A" italic="false" />
+    <commentTaskTag color="#8FBCBB" italic="false" />
+    <javadoc color="#4C566A" italic="false" />
+    <javadocLink color="#8FBCBB" italic="false" underline="false" strikethrough="false" />
+    <javadocTag color="#8FBCBB" italic="false" />
+    <javadocKeyword color="#8FBCBB" italic="false" />
+    <class color="#8FBCBB" bold="false" underline="false" strikethrough="false" />
+    <interface color="#8FBCBB" bold="true" />
+    <method color="#88C0D0" />
+    <methodDeclaration color="#88C0D0" />
+    <bracket color="#ECEFF4" />
+    <number color="#B48EAD" />
+    <string color="#A3BE8C" />
+    <operator color="#81A1C1" />
+    <keyword color="#81A1C1" bold="false" />
+    <annotation color="#D08770" />
+    <staticMethod color="#88C0D0" italic="true" />
+    <localVariable color="#D8DEE9" />
+    <localVariableDeclaration color="#D8DEE9" />
+    <field color="#D8DEE9" />
+    <staticField color="#D8DEE9" italic="false" />
+    <staticFinalField color="#D8DEE9" />
+    <deprecatedMember color="#EBCB8B" underline="false" strikethrough="true" />
+    <enum color="#8FBCBB" bold="false" />
+    <inheritedMethod color="#88C0D0" underline="false" strikethrough="false" />
+    <abstractMethod color="#88C0D0" underline="false" strikethrough="false" />
+    <parameterVariable color="#D8DEE9" />
+    <typeArgument color="#8FBCBB" underline="false" strikethrough="false" />
+    <typeParameter color="#8FBCBB" underline="false" strikethrough="false" />
+    <constant color="#D8DEE9" bold="false" italic="false" underline="false" strikethrough="false" />
+    <background color="#2E3440" />
+    <currentLine color="#3B4252" />
+    <foreground color="#D8DEE9" />
+    <lineNumber color="#4C566A" />
+    <selectionBackground color="#434C5E" />
+    <selectionForeground color="#D8DEE9" />
+</colorTheme>
