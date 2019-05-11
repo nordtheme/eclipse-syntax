@@ -19,10 +19,10 @@ References:
     <findScope color="#5E81AC" />
     <deletionIndication color="#BF616A" />
     <sourceHoverBackground color="#2E3440" />
-    <singleLineComment color="#4C566A" italic="false" />
-    <multiLineComment color="#4C566A" italic="false" />
+    <singleLineComment color="#616E88" italic="false" />
+    <multiLineComment color="#616E88" italic="false" />
     <commentTaskTag color="#8FBCBB" italic="false" />
-    <javadoc color="#4C566A" italic="false" />
+    <javadoc color="#616E88" italic="false" />
     <javadocLink color="#8FBCBB" italic="false" underline="false" strikethrough="false" />
     <javadocTag color="#8FBCBB" italic="false" />
     <javadocKeyword color="#8FBCBB" italic="false" />
