@@ -16,7 +16,7 @@ Based on the <a href="https://github.com/arcticicestudio/nord">Nord</a> color pa
 #### Via <img src="http://www.eclipsecolorthemes.org/favicon.ico" width=16 height=16/> <a href="http://www.eclipsecolorthemes.org/?view=theme&id=45110">Eclipse Color Themes Plugin</a>
 Install the latest version of the [Eclipse Color Themes Plugin](https://marketplace.eclipse.org/content/eclipse-color-theme) from the Eclipse marketplace.
 
-[Download](https://github.com/arcticicestudio/nord-eclipse-syntax/releases/latest) the latest [`nord.xml`](https://github.com/arcticicestudio/nord-eclipse-syntax-syntax/blob/develop/src/xml/nord.xml) file from the GitHub repository or the official [Eclipse Color Theme](http://www.eclipsecolorthemes.org/?view=theme&id=45110) webiste and import it:
+[Download](https://github.com/arcticicestudio/nord-eclipse-syntax/releases/latest) the latest [`nord.xml`](https://github.com/arcticicestudio/nord-eclipse-syntax/blob/develop/src/xml/nord.xml) file from the GitHub repository or the official [Eclipse Color Theme](http://www.eclipsecolorthemes.org/?view=theme&id=45110) webiste and import it:
   1. Open *Window* > *Preferences*
   2. Navigate to *General* > *Appearance* > *Color Theme* in the tree view
   3. Click on the *Import a theme* labeled button on the right bottom
@@ -25,7 +25,7 @@ Install the latest version of the [Eclipse Color Themes Plugin](https://marketpl
 You can also visit the plugin website for a [How To Use](http://www.eclipsecolorthemes.org/?view=how-to-use) description and video.
 
 #### Via Eclipse Preference Import
-[Download](https://github.com/arcticicestudio/nord-eclipse-syntax/releases/latest) the latest [`nord.epf`](https://github.com/arcticicestudio/nord-eclipse-syntax-syntax/blob/develop/src/epf/nord.epf) file and import it:
+[Download](https://github.com/arcticicestudio/nord-eclipse-syntax/releases/latest) the latest [`nord.epf`](https://github.com/arcticicestudio/nord-eclipse-syntax/blob/develop/src/epf/nord.epf) file and import it:
   1. Open *File* > *Import*
   2. Navigate to *General* and choose *Preferences*
   3. *Browse* to the downloaded `nord.epf` file
