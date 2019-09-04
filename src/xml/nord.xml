@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <!--
 Copyright (c) 2016-present Arctic Ice Studio <development@arcticicestudio.com>
 Copyright (c) 2016-present Sven Greb <code@svengreb.de>
@@ -9,8 +10,6 @@ License:    MIT
 References:
   http://eclipsecolorthemes.org
 -->
-
-<?xml version="1.0" encoding="utf-8"?>
 <colorTheme id="45110" name="Nord" modified="2016-11-19 19:11:19" author="Arctic Ice Studio" website="http://arcticicestudio.com/nord">
     <searchResultIndication color="#5E81AC" />
     <filteredSearchResultIndication color="#5E81AC" />
