@@ -1,6 +1,6 @@
 <p align="center"><img src="https://cdn.rawgit.com/arcticicestudio/nord-eclipse-syntax/develop/src/assets/nord-eclipse-syntax-banner.svg"/></p>
 
-<p align="center"><img src="https://assets-cdn.github.com/favicon.ico" width=24 height=24/> <a href="https://github.com/arcticicestudio/nord-eclipse-syntax/releases/latest"><img src="https://img.shields.io/github/release/arcticicestudio/nord-eclipse-syntax.svg?style=flat-square"/></a> <a href="https://github.com/arcticicestudio/nord/releases/tag/v0.1.0"><img src="https://img.shields.io/badge/Nord-v0.1.0-88C0D0.svg?style=flat-square"/></a> <img src="http://www.eclipsecolorthemes.org/favicon.ico" width=16 height=16/> <a href="http://www.eclipsecolorthemes.org/?view=theme&id=45110"><img src="https://img.shields.io/badge/Eclipse_Color_Themes-v0.1.0-2D2252.svg?style=flat-square"/></a></p>
+<p align="center"><a href="https://github.com/arcticicestudio/nord-eclipse-syntax/releases/latest"><img src="https://img.shields.io/github/release/arcticicestudio/nord-eclipse-syntax.svg?style=flat-square&logo=github"/></a> <a href="https://github.com/arcticicestudio/nord/releases/tag/v0.1.0"><img src="https://img.shields.io/badge/Nord-v0.1.0-88C0D0.svg?style=flat-square&logo=github"/></a> <a href="http://www.eclipsecolorthemes.org/?view=theme&id=45110"><img src="https://img.shields.io/badge/Eclipse_Color_Themes-v0.1.0-2D2252.svg?style=flat-square&logo=eclipse"/></a></p>
 
 <p align="center">An arctic, north-bluish clean and elegant <a href="https://eclipse.org">Eclipse</a> syntax theme.</p>
 
@@ -47,7 +47,7 @@ You can also visit the plugin website for a [How To Use](http://www.eclipsecolor
 Supports all languages which are listed on the [Eclipse Color Theme Plugin](https://marketplace.eclipse.org/content/eclipse-color-theme) marketplace site.  
 All styles have been optimized to achieve a consistent and uniform coloring across languages.
 
-### <img src="https://go.java/favicon.ico" width=16 height=16/> [Java](https://go.java)
+### [Java](https://go.java)
 <p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-eclipse-syntax/develop/src/assets/scrot-top.png"/><br><strong>Enumerations</strong><br><img src="https://raw.githubusercontent.com/arcticicestudio/nord-eclipse-syntax/develop/src/assets/scrot-lang-java-enum.png"/><br><strong>Enumerations with methods</strong><br><img src="https://raw.githubusercontent.com/arcticicestudio/nord-eclipse-syntax/develop/src/assets/scrot-lang-java-enum-method.png"/><br><strong>Interfaces</strong><br><img src="https://raw.githubusercontent.com/arcticicestudio/nord-eclipse-syntax/develop/src/assets/scrot-lang-java-interface.png"/></p>
 
 ## Development
@@ -56,7 +56,7 @@ All styles have been optimized to achieve a consistent and uniform coloring acro
 ### Contribution
 Please report issues/bugs, feature requests and suggestions for improvements to the [issue tracker](https://github.com/arcticicestudio/nord-eclipse-syntax/issues).
 
-<p align="center"><img src="https://cdn.rawgit.com/arcticicestudio/nord/develop/src/assets/banner-footer-mountains.svg" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true" /></p>
 
 <p align="center">Copyright &copy; 2016-present Arctic Ice Studio</p>
 
