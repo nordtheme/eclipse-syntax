@@ -1,16 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <!--
-Copyright (c) 2016-present Arctic Ice Studio <development@arcticicestudio.com>
-Copyright (c) 2016-present Sven Greb <code@svengreb.de>
-
-Project:    Nord Eclipse Syntax
-Version:    0.1.0
-Repository: https://github.com/arcticicestudio/nord-eclipse-syntax
-License:    MIT
-References:
-  http://eclipsecolorthemes.org
+Copyright (c) 2016-present Sven Greb <development@svengreb.de>
+This source code is licensed under the MIT license found in the license file.
 -->
-<colorTheme id="45110" name="Nord" modified="2016-11-19 19:11:19" author="Arctic Ice Studio" website="http://arcticicestudio.com/nord">
+<!--
+References:
+  1. http://eclipsecolorthemes.org
+-->
+<colorTheme id="45110" name="Nord" modified="2016-11-19 19:11:19" author="Sven Greb" website="https://www.nordtheme.com/ports/eclipse-syntax">
     <searchResultIndication color="#5E81AC" />
     <filteredSearchResultIndication color="#5E81AC" />
     <occurrenceIndication color="#5E81AC" />
